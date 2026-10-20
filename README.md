@@ -45,13 +45,8 @@ A browser-extension project designed to reduce repetitive work during job applic
 
 An educational platform project focused on exam preparation and learning resources.
 
-**Focus areas:** Python web development, application design, education technology.
+**Focus areas:** Python web development, django, application design, education technology.
 
-### 4. [Python Flask Projects](https://github.com/MerinRose123/python_flask)
-
-A collection of Flask-based projects demonstrating Python web development and backend application fundamentals.
-
-**Focus areas:** Python, Flask, web development, REST-oriented backend patterns.
 
 ### Beyond Code
 
