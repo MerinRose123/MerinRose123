@@ -15,18 +15,43 @@ I have professional experience developing enterprise software at Oracle and buil
 - **Engineering Practices:** System design, database design, CI/CD, automated testing
 - **AI Engineering:** AI-assisted developer tools and practical GenAI applications
 
-### Featured Projects
+## 🚀 Featured Projects
 
-**TicketFlow**  
-A backend-focused application exploring ticket workflows, role-based access control, database design, and asynchronous processing.
+### 1. [TicketFlow — Django Ticket Management System](https://github.com/MerinRose123/TicketFlow)
 
-**SmartApply**  
-A project focused on solving practical job-application workflow problems through software.
+A ticket management application exploring backend workflows, role-based access, asynchronous processing, and real-time notifications.
 
-**EducationCircle**  
-An application demonstrating product-oriented development and backend engineering.
+- Django-based application with role-oriented ticket workflows
+- Background processing using Celery and Redis
+- Real-time notifications using Django Channels and WebSockets
+- Architecture documentation covering request flows, failure scenarios, and engineering trade-offs
 
-Explore the repositories below for implementation details, setup instructions, tests, and design decisions.
+**Focus areas:** Backend engineering, asynchronous systems, real-time communication, system design.
+
+### 2. [SmartApply — AI-Assisted Job Application Tool](https://github.com/MerinRose123/SmartApply)
+
+A browser-extension project designed to reduce repetitive work during job applications through profile autofill and AI-assisted responses.
+
+- Browser-based job application autofill
+- Resume and profile information extraction
+- AI-assisted answers for application questions
+- Profile storage and synchronization features
+
+**Focus areas:** Developer productivity, browser extensions, automation, practical AI integration.
+
+*Note: This project is fork-derived; see the repository history for its origins and contributions.*
+
+### 3. [EducationCircle](https://github.com/MerinRose123/EducationCircle)
+
+An educational platform project focused on exam preparation and learning resources.
+
+**Focus areas:** Python web development, application design, education technology.
+
+### 4. [Python Flask Projects](https://github.com/MerinRose123/python_flask)
+
+A collection of Flask-based projects demonstrating Python web development and backend application fundamentals.
+
+**Focus areas:** Python, Flask, web development, REST-oriented backend patterns.
 
 ### Beyond Code
 
