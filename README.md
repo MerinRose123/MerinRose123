@@ -36,4 +36,4 @@ Explore the repositories below for implementation details, setup instructions, t
 
 ### Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/MerinRose123)
+[LinkedIn]((https://www.linkedin.com/in/merin-rose-tom/)) · [Portfolio]((https://github.com/MerinRose123](https://merinrose123.github.io/merin-rose-tom/))· [Blogs]((https://medium.com/@merin-rose-tom)))
