@@ -41,13 +41,6 @@ A browser-extension project designed to reduce repetitive work during job applic
 
 *Note: This project is fork-derived; see the repository history for its origins and contributions.*
 
-### 3. [EducationCircle](https://github.com/MerinRose123/EducationCircle)
-
-An educational platform project focused on exam preparation and learning resources.
-
-**Focus areas:** Python web development, django, application design, education technology.
-
-
 ### Beyond Code
 
 - APJ Abdul Kalam Technological University — Third Rank Holder
